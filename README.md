@@ -28,21 +28,21 @@ reboot
 bash -c "$(curl -sSfL 'https://raw.githubusercontent.com/MichaIng/DietPi/master/.build/images/dietpi-installer')"
 ```
 
-![img1](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/1.png)
+![img1](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/1.png)
 
-![img2](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/2.png)
+![img2](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/2.png)
 
-![img3](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/3.png)
+![img3](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/3.png)
 
-![img4](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/4.png)
+![img4](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/4.png)
 
-![img5](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/5.png)
+![img5](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/5.png)
 
-![img6](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/6.png)
+![img6](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/6.png)
 
-![img7](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/7.png)
+![img7](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/7.png)
 
-![img8](http://192.168.1.8:3000/wareck/MangoPI_DietPI/raw/master/img/8.png)
+![img8](https://raw.githubusercontent.com/wareck/DietPi-MangoPI-MQ-Quad/main/img/8.png)
 
 
 **At this step you can:**
