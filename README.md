@@ -1,4 +1,4 @@
-### DietPI for MangoPi-MQuad (H616)
+# DietPi-MangoPI-MQ-Quad
 
 #### Building processus :
 
