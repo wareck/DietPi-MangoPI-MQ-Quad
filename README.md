@@ -6,11 +6,14 @@ Use Armbian image : https://mega.nz/file/XeoymJKA#VSJHsyU8SCQPAQvMqVkiqLVPXWFp4e
 
 *(It's a minimal debian bullseye minimal linux 5.16.17)*
 
-burn image with balena etcher and connect the MangoPi with ssh:
+burn image with "Balena Etcher" and connect the MangoPi with ssh:
 
 user : **root**
 
 password : **orangepi**
+
+I personnaly used an usb/rj45 adapater to connect my Mango to network and Putty for SSH...
+
 
 then :
 
