@@ -1,4 +1,11 @@
-# DietPi-MangoPI-MQ-Quad
+# DietPi-MangoPI-MQ-Quad 
+
+Image pre build for MangoPi-MQ-Quad (H616).
+
+wifi/i2c/spi working
+
+You can use a live linux like mint to open image, an modify/edit dietpi.txt dietpi-wifi.txt.
+
 
 #### Building processus :
 
